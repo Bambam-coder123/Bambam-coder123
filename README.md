@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/Bambam-coder123">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=Envision.+Creation.+Innovation.+Destination." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=Creation.+Innovation.+Destination." alt="Typing SVG" />
   </a>
   <a href="mailto:virgilholder23@ghmail.com">
     
