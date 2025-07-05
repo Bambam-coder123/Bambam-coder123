@@ -3,13 +3,10 @@
 
 <p align="center">
   <a href="https://github.com/Bambam-coder123">
-    <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=Envision.+Creation.+Innovation.+Destination." alt="Typing SVG" />
   </a>
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/email-contact%20me-blue" alt="email" />
-  </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/twitter/follow/yourhandle?style=social" alt="Twitter" />
+  <a href="mailto:virgilholder23@ghmail.com">
+    
   </a>
 </p>
 
@@ -24,7 +21,7 @@
 
 ## 🔧 What I'm Working On
 
-### 🧠 [Safe Space – Mental Health Journal](https://github.com/yourusername/safe-space-journal)
+### 🧠 [Safe Space – Mental Health Journal](https://github.com/Bambam-coder123/safe-space-journal)
 > A free, open-source mental health journal focused on privacy, simplicity, and self-awareness.
 
 - 🔒 End-to-end encryption & offline mode
@@ -57,10 +54,9 @@
 
 ## 🤝 Let's Connect
 
-- 🧠 [Join the Safe Space Community](https://github.com/yourusername/safe-space-journal/discussions)
-- 🐦 [Follow me on Twitter](https://twitter.com/yourhandle)
+- 🧠 [Join the Safe Space Community](https://github.com/Bambam-coder123/safe-space-journal/discussions)
 - 🌐 [Visit my website](https://yourwebsite.com)
-- 📬 [Email me](mailto:your@email.com)
+- 📬 [Email me](virgilholder23@gmail.com)
 
 ---
 
